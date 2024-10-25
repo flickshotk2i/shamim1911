@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim</h1>
+<h1 align="center">Hi 👋, I'm 𝙁𝙡𝙞𝙘𝙠𝙨𝙝𝙤𝙩 🜲</h1>
 <h3 align="center">A passionate frontend developer from USA as an Bangladeshi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim1911&label=Profile%20views&color=0e75b6&style=flat" alt="shamim1911" /> </p>
